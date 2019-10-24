@@ -1,0 +1,3 @@
+SECRET_KEY='flaskMysql'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:1205@127.0.0.1:3306/filmdb'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
